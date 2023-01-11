@@ -1,0 +1,4 @@
+*.pat  text
+*.sig  binary
+
+*.til  binary
