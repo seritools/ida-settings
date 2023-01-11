@@ -1,0 +1,5 @@
+/proccache*.lst
+/trusted_i*_list.bin
+/themes
+/plugins/bindiff*.dll
+/plugins/binexport*.dll
